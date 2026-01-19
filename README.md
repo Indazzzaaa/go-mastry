@@ -104,21 +104,21 @@ You can follow this incrementally like a course or book.
 
 ## PART III — Interfaces & Abstractions
 
-### 12. Interfaces
+### 12. Interfaces ✅
 
-- Implicit implementation
-- Interface values
-- Empty interface
-- Type assertions
-- Type switches
+- Implicit implementation => no implement, just create method and you have the interface.
+- Interface values => (type, value) and if both nil then only interface will be nil.
+- Empty interface => varxinterface{}
+- Type assertions => value, ok := x.(int)
+- Type switches => x.(type)
 
-### 13. Interface Internals
+### 13. Interface Internals ✅
 
 - itab
 - Dynamic type/value
 - Nil interface pitfalls
 
-### 14. Generics (Go 1.18+)
+### 14. Generics (Go 1.18+) ✅
 
 - Type parameters
 - Constraints
@@ -131,7 +131,7 @@ You can follow this incrementally like a course or book.
 
 ## PART IV — Error Handling & Resource Management
 
-### 15. Error Handling
+### 15. Error Handling ✅
 
 - error interface
 - Sentinel errors
@@ -140,7 +140,7 @@ You can follow this incrementally like a course or book.
 - `errors.Is` / `errors.As`
 - Panic & recover
 
-### 16. Defer & Resource Management
+### 16. Defer & Resource Management ✅
 
 - Stack behavior
 - Deferred execution order
