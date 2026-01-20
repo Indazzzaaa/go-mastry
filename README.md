@@ -150,20 +150,20 @@ You can follow this incrementally like a course or book.
 
 ## PART V — Concurrency
 
-### 17. Goroutines
+### 17. Goroutines ✅
 
 - Creation
 - Stack growth
 - Scheduler basics
 
-### 18. Channels
+### 18. Channels ✅
 
 - Buffered vs unbuffered
 - Closing rules
 - Range over channels
 - Select statement
 
-### 19. Synchronization
+### 19. Synchronization ✅
 
 - Mutex
 - RWMutex
@@ -172,7 +172,7 @@ You can follow this incrementally like a course or book.
 - Cond
 - Atomic
 
-### 20. Concurrency Patterns
+### 20. Concurrency Patterns ✅
 
 - Worker pool
 - Fan-in / fan-out
