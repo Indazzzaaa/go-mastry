@@ -185,19 +185,20 @@ You can follow this incrementally like a course or book.
 
 ## PART VI — Memory & Performance
 
-### 21. Memory Model
+### 21. Memory Model ✅
 
 - Stack vs heap
 - Escape analysis
 - Allocation patterns
 
-### 22. Garbage Collector
+### 22. Garbage Collector ✅
 
 - Tricolor algorithm
 - STW phases
 - Tuning GC
+- Finalizers, Sync.pool
 
-### 23. Profiling & Optimization
+### 23. Profiling & Optimization ✅
 
 - Benchmarking
 - pprof
